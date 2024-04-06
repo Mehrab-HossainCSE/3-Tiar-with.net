@@ -1,0 +1,258 @@
+[
+  {
+    "FirstName": "df",
+    "MiddleName": "dfd",
+    "LastName": "ere",
+    "StudentID": "2-2-2",
+    "JoiningBatch": "33",
+    "Department": 2,
+    "Degree": 2,
+    "SemestersAttended": null,
+    "Courses": null
+  },
+  {
+    "FirstName": "fdf",
+    "MiddleName": "dere",
+    "LastName": "dfsd",
+    "StudentID": "5-5-5",
+    "JoiningBatch": "34",
+    "Department": 2,
+    "Degree": 4,
+    "SemestersAttended": null,
+    "Courses": null
+  },
+  {
+    "FirstName": "eroeh",
+    "MiddleName": "fere",
+    "LastName": "erw",
+    "StudentID": "4-4-4",
+    "JoiningBatch": "23",
+    "Department": 1,
+    "Degree": 1,
+    "SemestersAttended": null,
+    "Courses": null
+  },
+  {
+    "FirstName": "e",
+    "MiddleName": "sere",
+    "LastName": "efre",
+    "StudentID": "7-7-7",
+    "JoiningBatch": "34",
+    "Department": 1,
+    "Degree": 1,
+    "SemestersAttended": null,
+    "Courses": null
+  },
+  {
+    "FirstName": "we",
+    "MiddleName": "rge",
+    "LastName": "ev",
+    "StudentID": "6-6-6",
+    "JoiningBatch": "44",
+    "Department": 1,
+    "Degree": 1,
+    "SemestersAttended": null,
+    "Courses": null
+  },
+  {
+    "FirstName": "RRH",
+    "MiddleName": "DFWE",
+    "LastName": "GTR B",
+    "StudentID": "0-0-0",
+    "JoiningBatch": "34",
+    "Department": 1,
+    "Degree": 1,
+    "SemestersAttended": null,
+    "Courses": null
+  },
+  {
+    "FirstName": "ofdhf",
+    "MiddleName": "fefr",
+    "LastName": "ersd",
+    "StudentID": "9-9-9",
+    "JoiningBatch": "44",
+    "Department": 1,
+    "Degree": 1,
+    "SemestersAttended": null,
+    "Courses": null
+  },
+  {
+    "FirstName": "dfd",
+    "MiddleName": "dfredf",
+    "LastName": "dfed",
+    "StudentID": "5-5-5",
+    "JoiningBatch": "34",
+    "Department": 1,
+    "Degree": 1,
+    "SemestersAttended": [],
+    "Courses": []
+  },
+  {
+    "FirstName": "grgtr",
+    "MiddleName": "fgert",
+    "LastName": "rertsv",
+    "StudentID": "4-4-4",
+    "JoiningBatch": "44",
+    "Department": 1,
+    "Degree": 1,
+    "SemestersAttended": null,
+    "Courses": null
+  },
+  {
+    "FirstName": "pavel",
+    "MiddleName": "dfdf",
+    "LastName": "dfese",
+    "StudentID": "8-8-8",
+    "JoiningBatch": "34",
+    "Department": 1,
+    "Degree": 1,
+    "SemestersAttended": [
+      {
+        "SemesterCode": "343",
+        "Year": "3344"
+      },
+      {
+        "SemesterCode": "34",
+        "Year": "3344"
+      },
+      {
+        "SemesterCode": "33",
+        "Year": "334"
+      }
+    ],
+    "Courses": [
+      {
+        "CourseID": "34",
+        "CourseName": "dsfpsf",
+        "InstructorName": "dfs",
+        "NumberOfCredits": 344
+      },
+      {
+        "CourseID": "453",
+        "CourseName": "EmbeddedSystems",
+        "InstructorName": "dfds",
+        "NumberOfCredits": 33
+      },
+      {
+        "CourseID": "DigitalSignal,PowerSystem",
+        "CourseName": "DigitalSignal,PowerSystem",
+        "InstructorName": "dfsd",
+        "NumberOfCredits": 343
+      }
+    ]
+  },
+  {
+    "FirstName": "dfdf",
+    "MiddleName": "edsf",
+    "LastName": "fsd",
+    "StudentID": "1-2-3",
+    "JoiningBatch": "11",
+    "Department": 1,
+    "Degree": 1,
+    "SemestersAttended": [
+      {
+        "SemesterCode": "23",
+        "Year": "334"
+      }
+    ],
+    "Courses": [
+      {
+        "CourseID": "343",
+        "CourseName": "IOT,Robotics",
+        "InstructorName": "dsfsd",
+        "NumberOfCredits": 34
+      }
+    ]
+  },
+  {
+    "FirstName": "dfs",
+    "MiddleName": "dfsd",
+    "LastName": "dfs",
+    "StudentID": "3-2-1",
+    "JoiningBatch": "33",
+    "Department": 1,
+    "Degree": 1,
+    "SemestersAttended": [
+      {
+        "SemesterCode": "33",
+        "Year": "33"
+      }
+    ],
+    "Courses": [
+      {
+        "CourseID": "2332",
+        "CourseName": "EmbeddedSystems,IOT",
+        "InstructorName": "dfds",
+        "NumberOfCredits": 34
+      }
+    ]
+  },
+  {
+    "FirstName": "sdfe",
+    "MiddleName": "efs",
+    "LastName": "sfd",
+    "StudentID": "11-11-11",
+    "JoiningBatch": "33",
+    "Department": 1,
+    "Degree": 1,
+    "SemestersAttended": null,
+    "Courses": null
+  },
+  {
+    "FirstName": "dfs",
+    "MiddleName": "dfs",
+    "LastName": "dfds",
+    "StudentID": "1-1-11",
+    "JoiningBatch": "33",
+    "Department": 0,
+    "Degree": 0,
+    "SemestersAttended": [
+      {
+        "SemesterCode": "34",
+        "Year": "34"
+      }
+    ],
+    "Courses": [
+      {
+        "CourseID": "34",
+        "CourseName": "OOP,Networking",
+        "InstructorName": "dfds",
+        "NumberOfCredits": 34
+      }
+    ]
+  },
+  {
+    "FirstName": "df",
+    "MiddleName": "sdfsd",
+    "LastName": "dfsd",
+    "StudentID": "2-1-3",
+    "JoiningBatch": "33",
+    "Department": 0,
+    "Degree": 0,
+    "SemestersAttended": null,
+    "Courses": null
+  },
+  {
+    "FirstName": "dfs",
+    "MiddleName": "dfs",
+    "LastName": "sdfds",
+    "StudentID": "33-33-33",
+    "JoiningBatch": "34",
+    "Department": 0,
+    "Degree": 0,
+    "SemestersAttended": [
+      {
+        "SemesterCode": "33",
+        "Year": "33"
+      }
+    ],
+    "Courses": [
+      {
+        "CourseID": "343",
+        "CourseName": "OOP,Networking",
+        "InstructorName": "ds",
+        "NumberOfCredits": 34
+      }
+    ]
+  }
+]

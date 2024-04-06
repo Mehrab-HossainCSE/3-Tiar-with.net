@@ -1,0 +1,17 @@
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/bin/Debug/net8.0/StudentManagementSystem
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/bin/Debug/net8.0/StudentManagementSystem.deps.json
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/bin/Debug/net8.0/StudentManagementSystem.runtimeconfig.json
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/bin/Debug/net8.0/StudentManagementSystem.dll
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/bin/Debug/net8.0/StudentManagementSystem.pdb
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/obj/Debug/net8.0/StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/obj/Debug/net8.0/StudentManagementSystem.AssemblyInfoInputs.cache
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/obj/Debug/net8.0/StudentManagementSystem.AssemblyInfo.cs
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/obj/Debug/net8.0/StudentManagementSystem.csproj.CoreCompileInputs.cache
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/obj/Debug/net8.0/StudentManagementSystem.dll
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/obj/Debug/net8.0/refint/StudentManagementSystem.dll
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/obj/Debug/net8.0/StudentManagementSystem.pdb
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/obj/Debug/net8.0/StudentManagementSystem.genruntimeconfig.cache
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/obj/Debug/net8.0/ref/StudentManagementSystem.dll
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/obj/Debug/net8.0/StudentManagementSystem.csproj.AssemblyReference.cache
+/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/obj/Debug/net8.0/StudentManagementSystem.csproj.CopyComplete

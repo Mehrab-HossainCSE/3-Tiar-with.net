@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTmiHMk+ztpMGV9d+zpadqVvqKYzMKFqg9x06ZQxiPGkQ6CTO8ZeqTUFCDjvG0ijWS0AW5XyJdZVncVtaCoqBA==",
+  "success": true,
+  "projectFilePath": "/home/mehrab/c#/3 tier architecture project with c#/StudentManagementSystem/StudentManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "/home/mehrab/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
